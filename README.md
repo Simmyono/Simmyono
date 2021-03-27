@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Simmyono
-- 👀 I’m interested in Javascript and HTML.
-- 🌱 I’m currently learning Hyper Test Markup Language (HTML)
+- 👀 I’m interested in Javascript, HTML, and CSS.
+- 🌱 I’m currently learning HTML and CSS.
 - 📫 How to reach me: Email me at simmyonog@gmail.com
 
 <!---
