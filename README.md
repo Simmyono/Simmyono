@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Simmyono
-- 👀 I’m interested in Javascript, HTML, and CSS.
-- 🌱 I’m currently learning HTML and CSS.
+- 👀 I’m interested in modding Portal 2.
+- 🌱 I’m currently learning blender lol.
 - 📫 How to reach me: Email me at simmyonog@gmail.com
 
 <!---
